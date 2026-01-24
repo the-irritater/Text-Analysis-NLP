@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+lxml
+nltk
+openpyxl
+newspaper3k
+readability-lxml
