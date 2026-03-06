@@ -1,10 +1,10 @@
-## 📊 Text Analysis using NLP
+## Text Analysis using NLP
 
 This project performs sentiment analysis and readability analysis on news articles using Natural Language Processing (NLP).
 
 ---
 
-## 🔹 Project Overview
+## Project Overview
 - Extracts article content from given URLs
 - Calculates sentiment scores (Positive, Negative, Polarity, Subjectivity)
 - Computes readability metrics such as:
@@ -16,7 +16,7 @@ This project performs sentiment analysis and readability analysis on news articl
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NLTK
@@ -26,4 +26,3 @@ This project performs sentiment analysis and readability analysis on news articl
 
 ---
 
-## 📂 Project Structure
