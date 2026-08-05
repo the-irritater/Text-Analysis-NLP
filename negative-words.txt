@@ -466,7 +466,7 @@ bulkiness
 bulky
 bulkyness
 bull****
-bull----
+bull-
 bullies
 bullshit
 bullshyt
@@ -3005,7 +3005,7 @@ nauseate
 nauseates
 nauseating
 nauseatingly
-naïve
+nave
 nebulous
 nebulously
 needless
