@@ -12,29 +12,27 @@
 
 ## 📊 Text Analysis using NLP
 
-This project performs sentiment analysis and readability analysis on news articles using Natural Language Processing (NLP).
+## Problem Statement
+Organizations receive large volumes of unstructured text data from sources such as customer reviews, social media, and feedback forms. Extracting meaningful insights from this data is challenging. This project builds a multi-functional text analysis system to automate the classification and interpretation of textual data.
 
 ---
 
-## 🔹 Project Overview
-- Extracts article content from given URLs
-- Calculates sentiment scores (Positive, Negative, Polarity, Subjectivity)
-- Computes readability metrics such as:
-  - Average sentence length
-  - Percentage of complex words
-  - Fog Index
-  - Syllables per word
-- Saves extracted articles and structured output in Excel format
+## Objectives
+- Perform sentiment analysis on text data  
+- Detect spam or irrelevant messages  
+- Identify stress levels in text  
+- Detect hate and offensive content  
+- Identify sarcasm in textual data  
 
 ---
 
-## 🛠️ Technologies Used
-- Python
-- Pandas
-- NLTK
-- BeautifulSoup
-- Newspaper3k
-- Readability-lxml
+## Dataset
+- Multiple datasets used for different tasks:
+  - Spam Detection Dataset  
+  - Sentiment Analysis Dataset  
+  - Stress Detection Dataset  
+  - Hate Speech Dataset  
+  - Sarcasm Detection Dataset  
 
 ---
 
